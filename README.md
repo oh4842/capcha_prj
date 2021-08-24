@@ -1,1 +1,12 @@
 # capcha_prj
+![보고서001](https://user-images.githubusercontent.com/32236195/130587688-6f824727-8566-4f2e-a9dc-5465ca132ac9.png)
+![보고서002](https://user-images.githubusercontent.com/32236195/130587692-1c142551-bbfc-433c-b3f1-4a19867e1035.png)
+![보고서003](https://user-images.githubusercontent.com/32236195/130587696-ce15db42-85c2-4239-a7f0-0102552bcfaa.png)
+![보고서004](https://user-images.githubusercontent.com/32236195/130587699-32fb6e35-b947-4cd4-9ea2-05186f5041fd.png)
+![보고서005](https://user-images.githubusercontent.com/32236195/130587702-48da56b7-4a3a-40e1-bd1e-a2a11fbe0963.png)
+![보고서006](https://user-images.githubusercontent.com/32236195/130587703-1b888442-a777-460f-a621-b536aa4c60ce.png)
+![보고서007](https://user-images.githubusercontent.com/32236195/130587706-83a3ea88-170b-41d8-911e-6aa09fcddc43.png)
+![보고서008](https://user-images.githubusercontent.com/32236195/130587707-bb031852-514c-44b9-81f3-6ca3d0a4bdbb.png)
+![보고서009](https://user-images.githubusercontent.com/32236195/130587709-3296fa82-31ac-43c1-b219-32821db95fff.png)
+![보고서010](https://user-images.githubusercontent.com/32236195/130587712-023efe32-c4b9-4136-bf9c-260c3e413e67.png)
+![보고서011](https://user-images.githubusercontent.com/32236195/130587714-20e8c50d-c3af-42d1-828b-bcd0f8c23ab4.png)
